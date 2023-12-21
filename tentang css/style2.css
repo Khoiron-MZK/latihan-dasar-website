@@ -1,0 +1,46 @@
+.satu{
+    margin-left: 400px;
+    width: 600px;
+    height: 600px;
+    background-color: aqua;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.dua{
+    margin-left: 400px;
+    width: 600px;
+    height: 600px;
+    background-color: aqua;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.tiga{
+    margin-left: 400px;
+    width: 600px;
+    height: 600px;
+    background-color: aqua;
+    margin-top: 30px;
+    margin-bottom: 10px;
+
+}
+
+.empat{
+    margin-left: 300px;
+    width: 900px;
+    height: 900px;
+    background-color: white;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+body{
+    background-color: red;
+}
+
+.empat ul :nth-child(odd) {
+    color: green;
+}

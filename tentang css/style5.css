@@ -1,0 +1,29 @@
+
+
+body{
+    text-align: center;
+    background-color: black;
+}
+
+.satu{
+    width: 5in;
+    height: 800px;
+    background-color: white;
+    padding: 10px;
+    padding-top: 50px;
+    margin: auto;
+    border: 10px double darkblue;
+}
+
+h1{
+    font-size: 40px;
+}
+
+.satu ol{
+    text-align: left;
+}
+
+h2{
+    text-align: left;
+    padding-left: 15px;
+}

@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    font-variant: small-caps;
+    background:url(https://th.bing.com/th/id/OIP.WeZrvgNiAbtqEfyXSQBsXAHaEK?w=326&h=183&c=7&r=0&o=5&dpr=1.3&pid=1.7) 
+     ;
+
+     text-transform:capitalize;
+}
+
+form{
+    font-family: arial;
+}
+
+h2{
+    font-family: arial;
+    text-decoration: underline;
+}
+
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,92 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    
+}
+
+/* 
+.satu{
+    background-color: blue;
+    width: 1400px;
+    color: white;
+    text-transform: capitalize;
+    font-weight: 600;
+    word-spacing: 5px;
+}
+
+.dua{
+    width: 1400px;
+    background-color: red;
+}
+
+.tiga{
+    width: 1400px;
+    background-color: aqua;
+    color: blue;
+}
+
+span{
+    background-color: red;
+    
+    
+}
+
+.percobaan{
+    width: 1400px;
+    height: 500px;
+    overflow: auto;
+    background-color: blueviolet;
+} */
+
+/*  */
+.apa{
+    padding: 5px;
+    padding-top: 25px;
+    width: 600px;
+    height: 1400px;
+    background-color: white;
+    margin: auto;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    border: 15px solid ;
+}
+
+.apa h1 {
+    font-size: 50px;
+}
+
+
+.apa ol{
+    text-align: left;
+}
+
+.apa .ol-tiga li {
+    word-spacing: 6px;
+}
+
+#satu{
+    word-spacing: 1px;
+}
+
+
+
+.copyright{
+    margin-top: 100px;
+}
+
+.link:hover {
+    background-color: aqua;
+    width: 95px;
+    margin: auto;
+    font-size: 19px;
+}
+
+.link:hover a {
+    color: blue;
+    text-decoration: none;
+}
+
+.link a{
+    color: red;
+    text-decoration: none;
+}

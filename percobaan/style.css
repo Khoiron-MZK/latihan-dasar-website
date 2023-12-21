@@ -1,0 +1,126 @@
+body{
+    text-align: center;
+    background-color: white;
+
+}
+
+.container{
+    height: 805px;
+    width: 500px;
+    background-color: whitesmoke;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 7px double salmon;
+}
+
+.halaman{
+    margin-top: 40px;
+    margin-right: 5px;
+    color: salmon;
+    font-weight: bold;
+    text-align: left;
+}
+
+.halaman ul li{
+    display: inline-block;
+    text-decoration: none;
+    padding: 3px;
+    
+}
+
+.halaman ul li a{
+    font-size: small;
+    text-decoration: none;
+    color: aqua;
+    background-color: blue;
+    padding: 5px;
+    margin-right: 5px;
+    margin: auto;
+}
+
+.container h1{
+padding-top: 20px;
+font-size: 40px;
+text-transform: capitalize;
+}
+
+.halaman a:hover{
+    background-color: aqua;
+    color: brown;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+
+
+h1{
+    margin: 50px 70px;
+}
+
+.pria{
+    color: blue;
+    font-weight: 700;
+}
+
+.wanita{
+    color: blueviolet;
+    font-weight: 700;
+}
+
+
+.copyright{
+    margin-top: 40px;
+    width: 500px;
+    height: 85px;
+    background-color: black;
+    color: white;
+}
+
+.copyright p{
+    padding: 30px;
+    font-size: 10px;
+}
+
+textarea{
+    font-weight: 900;
+    text-align: center;
+}
+
+.setuju{
+    font-weight: 700;
+}
+
+.submit {
+    font-weight: 700;
+    color: blue;
+    background-color: salmon;
+
+}
+
+.reset {
+    font-weight: 700;
+    color: blue;
+    background-color: salmon;
+
+}
+
+.submit:hover{
+    background-color: greenyellow;
+    font-size: 14px;
+    text-transform: capitalize;
+}
+
+
+.reset:hover{
+    background-color: red;
+    font-size: 14px;
+    text-transform: capitalize;
+}
+
+
+
+
+
+
+
